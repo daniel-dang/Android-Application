@@ -1,3 +1,13 @@
+<!--
+    This is the String xml value page.
+    This page will store all the reference to string variable that was used in the
+    android project.
+    Note**: Always reference string in this page and do not hard code the string value.
+    We use this page for the convenience of changing the value at one location and
+    translation purposes.
+-->
+
+
 <resources>
     <string name="app_name">FirstApp</string>
     <string name="action_settings">Settings</string>
